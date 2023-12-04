@@ -1,0 +1,14 @@
+main.c:66:6:toggleLed	8	static
+main.c:77:6:HAL_UART_RxCpltCallback	16	static
+main.c:99:6:command_parser_fsm	16	static
+main.c:144:6:ADC_read	8	static
+main.c:154:6:uart_communication_fsm	8	static
+main.c:193:6:check_command_parser	8	static
+main.c:207:5:main	8	static
+main.c:257:6:SystemClock_Config	88	static
+main.c:300:13:MX_ADC1_Init	24	static
+main.c:345:13:MX_TIM2_Init	32	static
+main.c:390:13:MX_USART2_UART_Init	8	static
+main.c:423:13:MX_GPIO_Init	32	static
+main.c:443:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:455:6:Error_Handler	4	static,ignoring_inline_asm
